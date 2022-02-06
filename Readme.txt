@@ -1,6 +1,6 @@
 installing process
 
-npx react-native init testRnBoil --template https://github.com/Abhikr51/RN-Boil.git
+npx react-native init AwesomeRnProject --template https://github.com/Abhikr51/RN-Boil.git
 
 ///// USER_SNNIPTES /////
 "react-native boilerplate": {
