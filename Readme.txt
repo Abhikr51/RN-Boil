@@ -1,4 +1,4 @@
-installing process
+Installing process
 For MAC usres
 --> npx react-native init yourProjectName --template https://github.com/Abhikr51/RN-Boil.git
 For windows users
