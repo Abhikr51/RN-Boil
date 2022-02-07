@@ -1,6 +1,14 @@
 installing process
+For MAC usres
+--> npx react-native init yourProjectName --template https://github.com/Abhikr51/RN-Boil.git
+For windows users
+--> npx react-native init yourProjectName
+--> clone template project and copy app/ folder and App.js and Paste/Replace into your project
+--> yarn add @react-navigation/native@^6.0.8 @react-navigation/stack@^6.1.1 react-native-gesture-handler@^2.2.0 react-native-safe-area-context@^3.3.2 react-native-screens@^3.10.2 react-native-vector-icons@^9.0.0 react-redux@^7.2.6 redux@^4.1.2 redux-thunk@^2.4.
 
-npx react-native init AwesomeRnProject --template https://github.com/Abhikr51/RN-Boil.git
+--> react-native link
+--> yarn run android
+
 
 ///// USER_SNNIPTES /////
 "react-native boilerplate": {
